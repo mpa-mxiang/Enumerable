@@ -12,6 +12,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Future Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -54,6 +55,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Future Features <a name="key-features"></a>
+
+- class
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -62,7 +69,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+To run this project you need:
 to install git on your computer. Follow the instruction on the page to do so
 [Click here ](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and follow the instruction on the page to install git
 
